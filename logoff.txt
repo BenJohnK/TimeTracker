@@ -1,0 +1,9 @@
+
+
+   ProviderName: Microsoft-Windows-Security-Auditing
+
+TimeCreated                      Id LevelDisplayName Message                                                                                 
+-----------                      -- ---------------- -------                                                                                 
+26-03-2024 12:42:54            4647 Information      User initiated logoff:...                                                               
+
+
